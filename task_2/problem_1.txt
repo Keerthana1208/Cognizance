@@ -1,0 +1,23 @@
+//Problem 1
+
+pseudocode and flowchart for program tht outputs "true" if a given number is divisible by 3 and "false" otherwise , without using the "%"
+
+// pseudo code
+ MAIN
+     Declare int variable n
+     prompt the input n from user
+   WHILE
+     n>=0
+     subtract 3 from n and assign to n
+     n=n-3
+   END while
+
+   IF
+     n=0
+     print response
+       "true"
+   else
+     print response 
+       "false"
+   End if
+END main

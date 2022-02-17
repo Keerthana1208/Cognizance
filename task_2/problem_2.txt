@@ -1,0 +1,23 @@
+// Problem 2
+
+pseudocode and flowchart for program tht prints 
+n th fibonacci number
+ ( F(n),F(0)=0,F(1)=1,F(2)=1,F(3)=2,...)
+
+// pseudo code
+ 
+MAIN
+    initialise first variable (a)=0
+    initialise second variable (b)=1
+    initialise third variable (c)=0
+  prompt the input nth number from user
+  
+  For ( variable i range from 1 to nth number)
+  
+  add the values of 'a' and 'b' and assign it to 'Fib'
+  assign the value of 'b' to 'a'
+  assign the value of 'fib' to 'b'
+  
+ END for
+    print 'Fib'
+ END MAIN
