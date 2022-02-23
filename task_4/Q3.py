@@ -1,8 +1,8 @@
 mark_list = [
-              [1,"Ananya",50],
-              [2,"Akshaya",99],
-              [3,"Shyam",100],
-              [4,"Ariana",70],
+              [101,"Ananya",50],
+              [102,"Akshaya",99],
+              [103,"Shyam",100],
+              [104,"Ariana",70],
               ]
 
 print("|  Roll_Number  |  Student_Name  |  Marks_Obtained  |")
